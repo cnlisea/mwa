@@ -1,0 +1,2 @@
+# mwa
+mahjong win algorithm
