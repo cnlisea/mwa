@@ -1,0 +1,5 @@
+#IDE
+.idea/*
+
+#test files
+cmd/*test.go
